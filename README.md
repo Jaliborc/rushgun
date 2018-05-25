@@ -1,6 +1,7 @@
 # RushGun
 Extremely simple shooting game I quickly made in one afternoon using Unity. Repo only includes the source code files, as I've lost the media files since then.
-<iframe width="854" height="480" src="https://www.youtube.com/embed/MB-gdsrFPfU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[![http://jaliborc.com/images/other/rushgun.jpg]](https://www.youtube.com/watch?v=MB-gdsrFPfU)
+[Video of the game](https://www.youtube.com/watch?v=MB-gdsrFPfU)
 
 ### Code
 * *RushGun\Player.cs:* handes user interaction and controls (e.g: UI)
